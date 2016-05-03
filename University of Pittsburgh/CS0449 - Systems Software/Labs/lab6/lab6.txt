@@ -1,0 +1,27 @@
+Michael Bowen
+CS0449 Tues/Thurs 4:00 - 5:15  Recitation Fri 1:00-1:50
+
+	To avoiding getting the "BOOM!!!" message while running ./what, the fourth number 
+you enter must be the sum of the first three numbers you enter. The program will read in 
+all of the numbers. Then it will sum the first two numbers you entered, take that sum and 
+add the third number you enter. Then, it compares that final sum to the fourth number you enter.
+
+If the sum of the first three numbers equals the fourth number, the message "Congrat!!!" is
+display. If the two are unequal, the message "BOOM!!!" is displayed.
+
+Details on the storage and process:
+
+First number is stored in address 0x10 + $esp
+Second number is stored in address 0x14 + $esp
+Third number is stored in address 0x18 + $esp
+Fourth number is stored in addres 0x1c + $esp
+
+The number at 0x10 + $esp(first) is moved into %edx.
+The number at 0x14 + $esp(second) is moved into %eax
+%eax is added to %edx, result stored in %edx. (first and second entries summed)
+The number at 0x18 + $esp(third) is moved into %eax.
+%eax is added to %edx, result stored in %edx. (third entry added to previous sum)
+The number at 0x1c + $esp(fourth) is moved into %eax.
+The number in %eax is compared to the number in %edx.
+If the numbers are equal, print "Congrat!!!".
+If the numbers are not equal, print "Boom!!!".

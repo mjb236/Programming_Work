@@ -1,0 +1,10 @@
+Source Code: PokerTable
+
+Seems unclear whether or not this is our highest level as far as the game is concerned.
+
+This is the poker table, but it does not handle the hole cards. This code should probably be renamed to something closer to flop object
+perhaps or something reflecting it does not represent the table, but rather the flop.
+
+This code must be refactored.
+
+As a flop object, the code seems to work.

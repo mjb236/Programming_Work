@@ -1,0 +1,56 @@
+form {
+	display: block;
+	width: 400px;
+	margin: 0 auto;
+}
+
+body {
+	background-color: #888
+}
+
+label {
+	display: block;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+input {
+	padding: 10px;
+	border: 1px solid black;
+	margin-bottom: 10px;
+	width: 50%;
+}
+
+h3 {
+	text-align: center;
+	color: #aa4444;
+	background-color: #FFFFFF;
+	width: 400px;
+}
+
+table {
+	background-color: #FFFFFF;
+	border: solid black 1px;
+	border-collapse: collapse;
+	width: 400px;
+	margin: 0 auto;
+}
+
+th {
+	text-align: left;
+	padding: 10px;
+	font-weight: bold;
+	border-bottom: solid black 3px;
+	border-left: solid black 1px;
+}
+
+td {
+	padding: 10px;
+	text-align: left;
+	border: solid black 1px;
+}
+
+#message {
+	width: 400px;
+	margin: 0 auto;
+}

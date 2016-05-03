@@ -1,0 +1,11 @@
+Source Code HandVal
+
+Not quite finished,
+Still in developement, lacking a tester.
+
+For the pair count we may be able to reduce a lot of code between the 2, 3, and 4 of a kind methods.
+
+This class has yet to be seen how it will work with higher level play as well, because in Texas Hold'em, though you can
+only use 5, 7 cards in total are in play.
+
+Likely if this code remains, an exhaustive search of 5 hands will be needed.  There may be a better way to go about this.

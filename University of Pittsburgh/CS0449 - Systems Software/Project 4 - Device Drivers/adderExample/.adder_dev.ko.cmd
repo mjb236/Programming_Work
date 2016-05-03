@@ -1,0 +1,1 @@
+cmd_/afs/pitt.edu/home/m/j/mjb236/private/cs449/project4/adderExample/adder_dev.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /afs/pitt.edu/home/m/j/mjb236/private/cs449/project4/adderExample/adder_dev.ko /afs/pitt.edu/home/m/j/mjb236/private/cs449/project4/adderExample/adder_dev.o /afs/pitt.edu/home/m/j/mjb236/private/cs449/project4/adderExample/adder_dev.mod.o

@@ -1,0 +1,30 @@
+Source Code: CardValue
+
+Lines: all
+
+As discussed earlier, the way we were storing card values did not seem natural so a translator was decided on.  
+This should make working with our deck and cards easier.
+
+Lines: 1-96
+
+Unofrtunately it would seem the initializing in the way chosen seems necessary.  Because this project is for poker,
+we do not have to think about add jokers or other cards.  Good null value handling.
+
+Lines: 96-110
+
+Good. Returns integer card value.  More of a developer side function.
+
+Lines: Rest
+
+toString methods meant to print a user friendly way. Accepts a card object and String.
+
+I personally keep toString/print methods near the end of my code for a little clarity. 
+I have found putting them at the end, since toString methods are usually smaller, makes them easier to find.
+
+In addition, it might be easier to read code of methods are sorted by return types unless there is another logical flow.
+
+Code well commented.
+
+From a developer side, because of the switch cases, some better organization maybe be neccessary.
+
+

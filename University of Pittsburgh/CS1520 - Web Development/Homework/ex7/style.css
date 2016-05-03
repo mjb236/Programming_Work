@@ -1,0 +1,36 @@
+html body {
+	font-family: 'Helvetica', Arial, sans-serif;
+	color: #111;
+	background: #E7E7E7;
+}
+
+#form_div {
+	text-align: center;
+	vertical-align: center;
+	background-color: #107394;
+	width: 500px;
+	border: solid thin black;
+	margin: 10px auto;
+}
+
+#toggle {
+	font-size: 26px;
+	background-color: #E7E7E7;
+	margin: 20px;
+}
+
+#output {
+	text-align: center;
+	vertical-align: center;
+	background-color: #107394;
+	color: #E7E7E7;
+	font-size: 20px;
+	width: 500px;
+	border: solid thin black;
+	margin: 10px auto;
+	display: none;
+}
+
+#content {
+	text-align: center;
+}

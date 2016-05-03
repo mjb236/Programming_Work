@@ -1,0 +1,13 @@
+These reviews are meant to serve as more of a sprint summary and provide documentation regarding where we stand as 
+of the end of sprint 3.  They detail some of the pros and cons of the code, and provide us with some guidelines/reminders
+of things we intend to do before moving forward.
+
+Also, much of our code is still in developement, which is why some of them are missing testers.  
+
+For The GUI, we will draw up test documaentation in place of a java tester.  This is standard practise on 
+client side GUI testing, which must be performed by a user.
+
+It should be noted the actual results displayed in the GUI will still be tested in a tester.
+
+Update: Sprint 4 Reviws
+

@@ -1,0 +1,19 @@
+Source Code: CompleteHand
+
+Lines 1-26:
+
+Good initialization of constructor even though it takes 5 arguements.  
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Lines:27-37(CompleteHand constructor with Card Array)
+
+Though the code is good, we should consider placing an error handle
+if the card array in the constructor consists of more than 5 cards!
+
+Most likely will result in out of bounds error
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+All remaing code seems fine
+
+
+

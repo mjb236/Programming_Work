@@ -1,0 +1,12 @@
+
+Source Code: Card.java
+
+Lines: 13-20
+
+Addition of null case with String details
+
+We may want to consider changing the null strings from "X" and "x" 
+
+Also, The method names seem a bit confusing.  We may want to consider changing them since methods with similar names
+return different data types
+

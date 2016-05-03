@@ -1,0 +1,38 @@
+Check for Player Hand Selection function:
+
+1. Open the PokerCalc Gui
+2. Press the "Select Hand" button next to the PLayer's Hand text field.
+3. Select the AA, A2o, and A2s buttons.
+4. Select Submit
+5. Verify the selected hands display in the corresponding text field
+
+KNown Issues:
+If no hand is selected in the grid when selecting a hand, nothing will happen upon pressing the submit button
+
+Check for Enemy Hand Selection function:
+
+1. Open the PokerCalc Gui
+2. Press the "Select Hand" button next to the Enemy's Hand text field.
+3. Select the AA, A2o, and A2s buttons.
+4. Select Submit
+5. Verify the selected hands display in the corresponding text field
+
+Check Equity with no Flop, Turn, or River:
+
+Functionality not added
+
+Check equity with flop:
+
+1. Select one hand for the player and one hand for the enemy
+2. Enter 3 valid flop cards
+3. Select the Calculate button
+
+Expected output: 
+"Player's chance to win: �
+Enemy's chance to win: �
+Chance to tie: �"
+
+Known issues: 
+If two indentical cards are entered in the flop, the win percentages will be null
+If the turn is not entered but the river is entered, the values will still be calculated
+

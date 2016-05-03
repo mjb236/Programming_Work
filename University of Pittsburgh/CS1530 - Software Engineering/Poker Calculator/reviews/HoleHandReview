@@ -1,0 +1,7 @@
+Source code: HoleHand
+
+Fairly straight forward, not much to review. Class holds 2 card objects that represent the two cards dealt to the player.
+
+These will serve as the card hands to be compared.
+
+Well commented.

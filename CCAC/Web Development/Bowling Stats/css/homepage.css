@@ -1,0 +1,15 @@
+body { background-color: #99ffff;
+       color: #003300;
+       font-family: Veranda, Arial, sans-serif;
+}
+
+h2 {   background-color: #00ffff;
+       color: #003300;
+}
+
+#footer { background-color: #00ffff;
+       color: #003300;
+       font-size: .75em;
+       font-style: italic;
+       text-align: center;
+}

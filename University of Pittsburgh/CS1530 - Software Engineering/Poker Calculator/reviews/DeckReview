@@ -1,0 +1,7 @@
+Source Code: Deck.java
+
+The Deck has changed to reflect the object changed and addition of a CardTranslator
+
+The Deck's functionality has not changed however, and the Deck still passes the DeckTester.
+
+Overall good refactoring.

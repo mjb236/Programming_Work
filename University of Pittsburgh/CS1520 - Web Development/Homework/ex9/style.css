@@ -1,0 +1,58 @@
+html body {
+	font-family: 'Helvetica', Arial, sans-serif;
+	color: #111;
+	background: #E7E7E7;
+}
+
+#form_div {
+	text-align: center;
+	vertical-align: center;
+	background-color: #107394;
+	width: 500px;
+	border: solid thin black;
+	margin: 10px auto;
+}
+
+#word_btn {
+	font-size: 26px;
+	background-color: #E7E7E7;
+	margin: 20px;
+}
+
+#quiz {
+	vertical-align: center;
+	background-color: #107394;
+	color: #E7E7E7;
+	font-size: 20px;
+	width: 500px;
+	border: solid thin black;
+	margin: 10px auto;
+	display: none;
+}
+
+#results {
+	text-align: center;
+	vertical-align: center;
+	background-color: #107394;
+	color: #E7E7E7;
+	font-size: 20px;
+	width: 500px;
+	border: solid thin black;
+	margin: 10px auto;
+}
+
+h3 {
+	padding: 10px;
+}
+
+table {
+	width: 80%;
+	margin: 10px auto;
+}
+
+table, th, td{
+	border-color: #E7E7E7;
+	border: 2px solid;
+	border-collapse: collapse;
+	padding: 2px;
+}
