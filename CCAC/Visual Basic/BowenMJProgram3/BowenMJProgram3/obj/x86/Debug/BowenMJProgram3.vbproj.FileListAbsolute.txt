@@ -1,0 +1,14 @@
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\bin\Debug\BowenMJProgram3.exe
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\bin\Debug\BowenMJProgram3.pdb
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\bin\Debug\BowenMJProgram3.xml
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\BowenMJProgram3.MainForm.resources
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\BowenMJProgram3.Resources.resources
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\BowenMJProgram3.exe
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\BowenMJProgram3.xml
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\BowenMJProgram3.pdb
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\BowenMJProgram3.DecafCoffeeForm.resources
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\BowenMJProgram3.DisplayBillForm.resources
+C:\Users\Mike\Desktop\Visual Basic\Projects\BowenMJProgram3\BowenMJProgram3\obj\x86\Debug\BowenMJProgram3.RegularCoffeeForm.resources
